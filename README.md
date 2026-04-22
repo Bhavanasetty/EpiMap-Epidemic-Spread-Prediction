@@ -47,8 +47,6 @@ Project Lead
 ## Repository Contents
 
 * `paper_summary.md` – Summary of the research work
-* `presentation.pptx` – Conference presentation (if available)
-* `sample_code/` – Supporting implementation (optional)
 
 
 ## Original Project Repository
